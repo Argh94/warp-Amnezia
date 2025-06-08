@@ -1,6 +1,6 @@
 # Cloudflare WARP Config Generator
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Cloudflare+WARP+Config+Generator)
+![Project Banner](https://github.com/Argh94/warp-Amnezia/blob/main/Termux1.png)
 
 A Bash script to generate WireGuard configuration files for connecting to Cloudflare WARP VPN, optimized for use with the AmneziaWG client.
 
