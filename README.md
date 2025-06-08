@@ -96,14 +96,14 @@ The script outputs:
 
 A graphical header:
 ```
-     ▄█     ▄█
-    ▄█ ░█▀▀ █▄
-▄█  █████████  ▄█
-███ ███┴┬┬███ █████
+          ▄▀▄     ▄▀▄
+        ▄█░░▀▀▀▀▀░░█▄
+    ▄▄  █░░░░░░░░░░░█  ▄▄
+   █▄▄█ █░░█░░┬░░█░░█ █▄▄█
 ╔═══════════════════════════════════════╗
 ║ ♚ Project: Cloudflare WARP Config Generator  ║
 ║ ♚ Author: Argh94                             ║
-║ ♚ GitHub: https://github.com/Argh94          ║
+║ ♚ GitHub: https://GitHub.com/Argh94          ║
 ╚═══════════════════════════════════════╝
 ```
 
